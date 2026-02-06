@@ -1,0 +1,9 @@
+Hey Angel, unfortunely, I couldn't run your app since it looks like we are in different version. It seems to me that we might have version mismatch for SQL Server.
+Nevertheless, your form look very organized. A minor thing I would point out is that your code doesn't have much comments. I only see the default comment left by Visual Studios.
+
+Also, maybe I am wrong, but I do not see you sorting anything whether its on the front end or the back. I do see the four aggregate buttons and their respective methods; they read to function normally.
+Similarly, I also wrote SQL to find the max/min/avg/sum of the population. However, I did see on yours there was some extra spaces in between some words / some formatting mistakes in your query. 
+Furthermore, I see in your properties, that your indexing by -1. I am sure that your form would run still even if all new rows would have negative numbers. Though, I think it would be better to 
+index by 1 since it is the pattern of the exisiting data. 
+
+Overall, great job!
